@@ -5,7 +5,15 @@
  header > img {
     height: 40px;
  }
+html > body > header > nav {}
 
- main > img {
+header > nav > a {}
 
- }
+header > a {}
+
+nav > a {}
+
+
+
+
+ 
