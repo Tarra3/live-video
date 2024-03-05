@@ -1,0 +1,11 @@
+ header {
+     background-color: yellow;
+ }
+
+ header > img {
+    height: 40px;
+ }
+
+ main > img {
+
+ }
