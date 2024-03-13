@@ -1,17 +1,27 @@
  header {
+    display: inline-block;
      background-color: yellow;
+     width: 100%;
  }
 
  header > img {
-    height: 40px;
- }
-html > body > header > nav {}
+    float: left;
+    height: 50px;
+     }
+header > nav {
+    margin-top: 13px;
+    float: right;
+}
 
-header > nav > a {}
+header > nav > a {
+    float: left;
+    margin-left: 20px;
+    font-size: 20px;
+    line-height: 20px;
+    text-decoration: none;
+    }
 
-header > a {}
 
-nav > a {}
 
 
 
