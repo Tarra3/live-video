@@ -15,12 +15,15 @@ header > nav {
 
 header > nav > a {
     float: left;
-    margin-left: 20px;
+    margin-right: 20px;
     font-size: 20px;
     line-height: 20px;
     text-decoration: none;
     }
 
+header > nav > a:last-child {
+    margin-right: 0;
+}
 
 
 
