@@ -26,7 +26,14 @@ header > nav > a:last-child {
 }
 
 
-
-
+/*
+I- header a:nth-child(2) {<-antras header - a(vaikas) bus su spalva kazkokia 
+background-color: (spalva) ; 
+}
+I- nth-child(2n)  su raide n (tik raide n galima naudoti) - kas antras - prades  nuo antro.
+3n - kas trecias/4n - kas ketvirtas... 
+I- nth-child(2n+1) paims kas antra tik nuo pirmo. 
+I- nth-child(2n+6) prades spalvinti nuo 6-to.
+*/
 
  
